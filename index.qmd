@@ -4,7 +4,7 @@ subtitle: "![](img/logo_satori.png){width=20%} <br> Sistema Satelital para la Op
 format: 
   revealjs:
     number-sections: true
-logo: ../img/logo_hemera_2024.png
+logo: img/logo_hemera_2024.png
 css: logo.css
 ---
 
@@ -61,8 +61,6 @@ Desarrollar un **prototipo de servicio web** para la optimización del riego en 
   + fAPAR
   + Fracción de Cubierta Vegetal
   + Contenido de Agua en la Canopia
-
-
 :::
 :::
 
@@ -110,8 +108,15 @@ Desarrollar un **prototipo de servicio web** para la optimización del riego en 
 
 ## Producción y Calidad {.smaller background-image="img/logo_satori.png" background-position="97.5% 2.5%" background-size="7.5%" layout="true"}
 
+**Rendimiento (ton/ha)**
+
 ![](img/rendimiento.png){fig-align='center'}
 
+## Producción y Calidad {.smaller background-image="img/logo_satori.png" background-position="97.5% 2.5%" background-size="7.5%" layout="true"}
+
+**Calibre (mm)**
+
+![](img/calibre.png){fig-align='center'}
 
 ## Metabolómica {.smaller background-image="img/logo_satori.png" background-position="97.5% 2.5%" background-size="7.5%" layout="true"}
 
@@ -137,7 +142,21 @@ Desarrollar un **prototipo de servicio web** para la optimización del riego en 
 
 Metabolítos más importantes 
 
-![](img/importancia_metabolitos.png){width='50%' fig_align='center'}
+![](img/importancia_metabolitos.png){width='50%', fig_align='center'}
 
 
 ## Modelo Estimación $\Psi_s$ {.smaller background-image="img/logo_satori.png" background-position="97.5% 2.5%" background-size="7.5%" layout="true"}
+ 
+## Proyecciones Futuras {.smaller background-image="img/logo_satori.png" background-position="97.5% 2.5%" background-size="7.5%" layout="true"}
+
+* Finalizar proyecto en noviembre 2024 con prototipo de plataforma web finalizada.
+
+* Enviar artículo científico sobre la predicción de $\Psi_p$ para publicación a journal "International Journal of Applied Earth Observation and Geoinformation"
+
+* Postular a proyecto FONDEF Tecnológico con el objetivo de escalar
+
+* Preparar artículo científico con los resultados fisiológicos
+
+* Presentar resultados en congresos internacionales y nacionales
+
+* 
