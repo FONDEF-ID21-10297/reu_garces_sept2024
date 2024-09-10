@@ -3,7 +3,7 @@
     "path": "/media/francisco/nube/OneDrive/R-projects/Proyectos/FONDEF-ID21_10297/reuniones_presentaciones/reu_garces_sept2024/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "2101531834",
+    "hash": "1737708756",
     "contents": "",
     "dirty": false,
     "created": 1726000082540.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "81,0",
-        "scrollLine": "61"
+        "cursorPosition": "2,55",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1726001828,
+    "lastKnownWriteTime": 1726002165,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1726001828174,
+    "last_content_update": 1726002165049,
     "read_only": false,
     "read_only_alternatives": []
 }
