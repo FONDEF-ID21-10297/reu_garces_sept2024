@@ -26,13 +26,45 @@ Desarrollar un **prototipo de servicio web** para la optimización del riego en 
 4.  Desarrollar un `prototipo de plataforma web` en el cual se implemente el modelo de estimación de `potencial de turgor` y que entregue información de las `frecuencias`, `tiempos` y `cantidad de agua` a aplicar en el riego.
 :::
 
-## Idea general del proyecto. {.smaller background-image="img/logo_satori.png" background-position="97.5% 2.5%" background-size="7.5%" layout="true"}
+## Idea del proyecto. {.smaller background-image="img/logo_satori.png" background-position="97.5% 2.5%" background-size="7.5%" layout="true"}
 
 ![](img/metodo3.png)
 
 ## Área de Estudio {.smaller background-image="img/logo_satori.png" background-position="97.5% 2.5%" background-size="7.5%" layout="true"}
 
 ![](img/area_de_estudio.png){fig-align='center'}
+
+## Mediciones {.smaller background-image="img/logo_satori.png" background-position="97.5% 2.5%" background-size="7.5%" layout="true"}
+
+::: {.columns}
+::: {.column width=50%}
+**Parámetros Fisiológicos**   
+
+* Potencial Hídrico Xilemático ($\Psi_s$)  
+* Fluorescencia  
+* Potencial de turgor  
+* Índice de Área Foliar  
+* Curva Presión Volumen  
+* Variables meteorológicas  
+  + Temperatura  
+  + Humedad relativa  
+  + Déficit de Presion de Vapor (DPV)  
+  + Evapotranspiración de referencia (ET0)  
+:::
+::: {.column width=50%}
+**Variables Satelitales (Sentinel-2)**
+
+* Indices de vegetación en la región VNIR/SWIR
+* Parámetros biofísicos:
+  + Índice de Área Foliar
+  + Contenido de clorofila en la hoja
+  + fAPAR
+  + Fracción de Cubierta Vegetal
+  + Contenido de Agua en la Canopia
+
+
+:::
+:::
 
 ## Clima {.smaller background-image="img/logo_satori.png" background-position="97.5% 2.5%" background-size="7.5%" layout="true"}
 
